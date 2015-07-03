@@ -2,7 +2,6 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.base import BaseEstimator
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 pd.set_option('display.max_columns', None)
 
 class Regressor(BaseEstimator):
