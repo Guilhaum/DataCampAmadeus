@@ -1,5 +1,5 @@
 import pandas as pd
-import os
+
 
 class FeatureExtractor(object):
     def __init__(self):
